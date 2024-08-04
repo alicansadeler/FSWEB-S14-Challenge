@@ -1,6 +1,7 @@
-import org.example.models.DeluxeBurger;
-import org.example.models.Hamburger;
-import org.example.models.HealthyBurger;
+import org.example.DeluxeBurger;
+import org.example.Hamburger;
+import org.example.HealthyBurger;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
